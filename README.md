@@ -21,21 +21,17 @@ landscape in Alitagtag
 # Petals and Stems
 A smart parking monitoring mobile app is a software application designed for smartphones and tablets that helps users locate and manage parking spaces. The app connects to a network of sensors and cameras in parking facilities, collecting data on parking space availability and occupancy. This information is then processed and presented to users in an intuitive interface, guiding them to available spots and providing additional features like reservations and payments.
 > Key Features :
-- Real-Time Availability: Shows up-to-date information on available parking spaces.
-- Navigation Assistance: Provides directions to the nearest available parking spot.
-- Reservation System: Allows users to book parking spaces in advance.
-- Notifications and Alerts: Sends reminders about parking expiry and availability updates.
-- Parking History and Analytics: Keeps a record of past parking sessions and offers insights into usage patterns.
-- Reservation System: Allows users to book parking spaces in advance.
-- Payment Integration: Enables users to pay for parking through the app, using various payment methods.
-
-> Smart parking monitoring mobile apps are revolutionizing the parking industry by integrating advanced technologies and offering a host of user-centric features. These apps not only improve the efficiency of parking management but also significantly enhance the user experience. As cities become smarter and more connected, the adoption of smart parking solutions will continue to grow, contributing to more sustainable and livable urban environments.:
-
-
-# Video Prentation
-YouTube Link:https://www.youtube.com/watch?v=e1d8fcIzxTM\
-
--https://drive.google.com/file/d/1Qlls7lo6C_xHUoYLv_4-kKlEcRH-tp09/view?fbclid=IwY2xjawEQbIFleHRuA2FlbQIxMAABHWskAVfP09LAGc0s4v2Q_M52C74QWB5XQOy0ZaDFQ8gNklN20SOGpW72RA_aem_39CwyCxN6Y1WaMoJ_ypKrA
+Welcome Message: A personalized greeting at the top, "Welcome Back!" with an accompanying user icon.
+Fast Deals Section: Displays special deals prominently with product names, images/icons, and prices. In this case:
+Rose Bouquet for ₱500.00
+Tulip Bundle for ₱350.00
+Cart Status: A message indicating the status of the cart. Here, it shows "Nothing in the cart" when the cart is empty.
+Bottom Navigation Bar:
+Home Icon: Likely navigates to the home screen.
+Shop Icon: Probably takes the user to the shop section to browse and purchase products.
+Cart Icon: Shows the cart screen with items added for purchase.
+Profile Icon: Leads to the user's profile screen.
+These features are designed to give users easy access to important functionalities like browsing deals, checking the cart, and navigating between different sections of the app.
 
 #PPT: https://www.canva.com/design/DAGKuqmTvtI/7Z_TpN6s9m2_j4dawOviow/edit?utm_content=DAGKuqmTvtI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
