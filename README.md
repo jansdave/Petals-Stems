@@ -24,18 +24,23 @@ landscape in Alitagtag
 
 >Welcome Message: A personalized greeting at the top, "Welcome Back!" with an accompanying user icon.
 >Fast Deals Section: Displays special deals prominently with product names, images/icons, and prices. In this case:
+
 >Rose Bouquet for ₱500.00
 >Tulip Bundle for ₱350.00
+
 >Cart Status: A message indicating the status of the cart. Here, it shows "Nothing in the cart" when the cart is empty.
->
+
 >Bottom Navigation Bar:
+
 >Home Icon: Likely navigates to the home screen.
->
+
 >Shop Icon: Probably takes the user to the shop section to browse and purchase products.
->
+
 >Cart Icon: Shows the cart screen with items added for purchase.
+
 >Profile Icon: Leads to the user's profile screen.
->
+
+
 >These features are designed to give users easy access to important functionalities like browsing deals, checking the cart, and navigating between different sections of the app.
 
 # Screenshots
