@@ -51,10 +51,6 @@ landscape in Alitagtag
 
 ![image](https://github.com/user-attachments/assets/3843e752-6693-4a20-a773-a0e1c7f6131a)
 
-![image](https://github.com/user-attachments/assets/615b868c-7830-4b11-899b-43b8848dffea)
-
-![image](https://github.com/user-attachments/assets/309de556-764e-4e0d-9870-82d2839d7c68)
-
 ![image](https://github.com/user-attachments/assets/70e42adf-b711-4638-9033-400ce73b71d9)
 
 ![image](https://github.com/user-attachments/assets/f17e6188-404d-4d52-b9d9-c081c08a96ae)
