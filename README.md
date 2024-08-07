@@ -38,6 +38,11 @@ landscape in Alitagtag
 >
 >These features are designed to give users easy access to important functionalities like browsing deals, checking the cart, and navigating between different sections of the app.
 
+#Screenshot
+
+![image](https://github.com/user-attachments/assets/82a7f141-b288-45bb-981a-0b3f53533506)
+
+
 #PPT: https://www.canva.com/design/DAGKuqmTvtI/7Z_TpN6s9m2_j4dawOviow/edit?utm_content=DAGKuqmTvtI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 #CODE:https://drive.google.com/drive/folders/1UABGq5--Rn7jOVXP8qZlYT51bCZNCgId?fbclid=IwZXh0bgNhZW0CMTAAAR2DCLD5mb-CJMhQ_MiA8pYkxM8w9B8LCezQVlQmJcfC1VjOxjH6jSBvyzM_aem_2EFAsWQo7m71aswSxa_qIg
