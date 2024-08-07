@@ -40,11 +40,14 @@ landscape in Alitagtag
 
 #Screenshot
 
-![image](https://github.com/user-attachments/assets/82a7f141-b288-45bb-981a-0b3f53533506)
+![image](https://github.com/user-attachments/assets/857de00e-cedd-4699-a2d9-852b32cb6b6c)
+
+![image](https://github.com/user-attachments/assets/62edc375-b9a3-4545-b264-a008a1eb185b)
+
+![image](https://github.com/user-attachments/assets/3843e752-6693-4a20-a773-a0e1c7f6131a)
+
+![image](https://github.com/user-attachments/assets/615b868c-7830-4b11-899b-43b8848dffea)
 
 
-#PPT: https://www.canva.com/design/DAGKuqmTvtI/7Z_TpN6s9m2_j4dawOviow/edit?utm_content=DAGKuqmTvtI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
-
-#CODE:https://drive.google.com/drive/folders/1UABGq5--Rn7jOVXP8qZlYT51bCZNCgId?fbclid=IwZXh0bgNhZW0CMTAAAR2DCLD5mb-CJMhQ_MiA8pYkxM8w9B8LCezQVlQmJcfC1VjOxjH6jSBvyzM_aem_2EFAsWQo7m71aswSxa_qIg
 
 
