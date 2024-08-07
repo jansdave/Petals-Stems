@@ -19,19 +19,24 @@ personalized and efficient shopping experience, thereby transforming the floral 
 landscape in Alitagtag
  
 # Petals and Stems
-A smart parking monitoring mobile app is a software application designed for smartphones and tablets that helps users locate and manage parking spaces. The app connects to a network of sensors and cameras in parking facilities, collecting data on parking space availability and occupancy. This information is then processed and presented to users in an intuitive interface, guiding them to available spots and providing additional features like reservations and payments.
+
 > Key Features :
-Welcome Message: A personalized greeting at the top, "Welcome Back!" with an accompanying user icon.
-Fast Deals Section: Displays special deals prominently with product names, images/icons, and prices. In this case:
-Rose Bouquet for ₱500.00
-Tulip Bundle for ₱350.00
-Cart Status: A message indicating the status of the cart. Here, it shows "Nothing in the cart" when the cart is empty.
-Bottom Navigation Bar:
-Home Icon: Likely navigates to the home screen.
-Shop Icon: Probably takes the user to the shop section to browse and purchase products.
-Cart Icon: Shows the cart screen with items added for purchase.
-Profile Icon: Leads to the user's profile screen.
-These features are designed to give users easy access to important functionalities like browsing deals, checking the cart, and navigating between different sections of the app.
+
+>Welcome Message: A personalized greeting at the top, "Welcome Back!" with an accompanying user icon.
+>Fast Deals Section: Displays special deals prominently with product names, images/icons, and prices. In this case:
+>Rose Bouquet for ₱500.00
+>Tulip Bundle for ₱350.00
+>Cart Status: A message indicating the status of the cart. Here, it shows "Nothing in the cart" when the cart is empty.
+>
+>Bottom Navigation Bar:
+>Home Icon: Likely navigates to the home screen.
+>
+>Shop Icon: Probably takes the user to the shop section to browse and purchase products.
+>
+>Cart Icon: Shows the cart screen with items added for purchase.
+>Profile Icon: Leads to the user's profile screen.
+>
+>These features are designed to give users easy access to important functionalities like browsing deals, checking the cart, and navigating between different sections of the app.
 
 #PPT: https://www.canva.com/design/DAGKuqmTvtI/7Z_TpN6s9m2_j4dawOviow/edit?utm_content=DAGKuqmTvtI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
