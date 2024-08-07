@@ -6,7 +6,7 @@
 - Mulingtapang, Jans Dave B.
 - Ramos, Franklyn Eronz.
 
-#Description
+# Description
 
 in Alitagtag, Batangas, aims to modernize the local flower shop
 experience by addressing the inefficiencies of traditional ordering methods. Traditional
@@ -20,7 +20,7 @@ landscape in Alitagtag
  
 # Petals and Stems
 
-> Key Features :
+# Key Features
 
 >Welcome Message: A personalized greeting at the top, "Welcome Back!" with an accompanying user icon.
 >Fast Deals Section: Displays special deals prominently with product names, images/icons, and prices. In this case:
