@@ -23,6 +23,7 @@ landscape in Alitagtag
 # Key Features
 
 >Welcome Message: A personalized greeting at the top, "Welcome Back!" with an accompanying user icon.
+
 >Fast Deals Section: Displays special deals prominently with product names, images/icons, and prices. In this case:
 
 >Rose Bouquet for ₱500.00
@@ -39,7 +40,6 @@ landscape in Alitagtag
 >Cart Icon: Shows the cart screen with items added for purchase.
 
 >Profile Icon: Leads to the user's profile screen.
-
 
 >These features are designed to give users easy access to important functionalities like browsing deals, checking the cart, and navigating between different sections of the app.
 
