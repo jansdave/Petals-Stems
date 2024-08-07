@@ -4,7 +4,7 @@
 - Crisostomo, Michael Lorenz G.
 - Ibeirnas, Mark Wendell P.
 - Mulingtapang, Jans Dave B.
-- Ramos, Franklyn Eronz.
+- Ramos, Franklyn Eronz
 
 # Description
 
